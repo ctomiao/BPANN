@@ -1,0 +1,18 @@
+﻿生成启动时间为 2014/11/26 19:14:56。
+     1>项目“E:\BPANN\BPANN\BPANN.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\BPANN.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt BPANN.cpp
+         BPANN.cpp
+     1>e:\bpann\bpann\bpann.cpp(100): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\bpann\bpann\bpann.cpp(127): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\bpann\bpann\bpann.cpp(129): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\bpann\bpann\bpann.cpp(161): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\BPANN\Debug\BPANN.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\BPANN\Debug\BPANN.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\BPANN\Debug\BPANN.lib" /MACHINE:X86 Debug\BPANN.obj
+         Debug\stdafx.obj
+         BPANN.vcxproj -> E:\BPANN\Debug\BPANN.exe
+     1>已完成生成项目“E:\BPANN\BPANN\BPANN.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.31
